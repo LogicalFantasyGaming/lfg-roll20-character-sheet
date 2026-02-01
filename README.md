@@ -26,6 +26,12 @@ To delete one of your added item rows, you must first place at least 1 letter of
 Current Version: v1.0  
 Actively used in live games
 
-## License
-All content © Logical Fantasy Gaming.  
-Roll20 use permitted for personal and community play.
+## License & Usage
+
+Logical Fantasy Gaming (LFG) is a proprietary tabletop RPG system.
+
+All game mechanics, rules, and system content are © Logical Fantasy Gaming.
+
+The Roll20 character sheet code (HTML/CSS/Sheet Workers) may be reused or adapted
+with clear attribution to Logical Fantasy Gaming and the original author.
+
