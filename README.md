@@ -9,10 +9,10 @@ Author: Daniel Brillat
 Custom Roll20 Character Sheet (HTML / CSS / Sheet Workers)
 
 ## Files Included
-- `lfg.html` – Character sheet structure
-- `lfg.css` – Sheet styling
-- `lfg.json` – Roll20 sheet definition
-- `/assets` – Icons and visual assets (if applicable)
+- sheet.html – Character sheet structure
+- sheet.css – Sheet styling
+- sheet.json – Roll20 sheet definition
+- /assets – Icons and visual assets
 
 ## Features
 - Supports Melee, Hybrid, and Caster LFG characters
