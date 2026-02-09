@@ -18,7 +18,7 @@ Custom Roll20 Character Sheet (HTML / CSS / Sheet Workers)
 - Supports Melee, Hybrid, and Caster LFG characters
 - Attacks, Skills, Equipment, Armor, Saves, and Weight tracking
 - Designed to match official LFG character sheets
-Notes for Equipment & Weight Calculations: 
+- Notes for Equipment & Weight Calculations: 
 If you delete items and the total weight value doesn’t update, change any one of your item weights, then change it back and the new tally should appear.
 To delete one of your added item rows, you must first place at least 1 letter of text into a fillable field.
 
